@@ -26,7 +26,6 @@ Possible ways to get contribute:
 
   
 ## Slack
-
 Join out [Slack channel][slack]
 
 
