@@ -11,6 +11,7 @@ tags: join
 Get involved in <strong> OWASP AIBOM</strong>\!
 
 
+
 You do not have to be a security expert or a programmer to contribute.
 Contact the Project Leader(s) to get involved, we welcome any type of
 suggestions and comments.
