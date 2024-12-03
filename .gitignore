@@ -2,3 +2,8 @@
 /Gemfile.lock
 /favicon.ico
 _site/
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/.idea/www-project-aibom.iml
