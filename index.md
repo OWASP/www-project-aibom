@@ -82,4 +82,4 @@ Target Audience:
 AIBOM Core Team
 Timeline:
 
-Ready for Conference Applications: February 2025
+Ready for Conference Applications: April 2025
