@@ -19,7 +19,7 @@ pitch: Bringing transparency and security to AI model supply chains through stan
 
 ---
 
-## 🎯 Project Announcement
+## Project Announcement
 
 We're excited to announce the **formal launch of the OWASP AI Bill of Materials (AIBOM) Project!** 
 
@@ -29,17 +29,17 @@ Building on OWASP's long-standing tradition of making security visible, we're no
 
 ---
 
-## 🚀 Project Mission
+## Project Mission
 
 The OWASP AIBOM Project establishes a comprehensive framework that:
 
-### 🔍 **Identifies and Documents**
+### **Identifies and Documents**
 - **Model lineage** and provenance
 - **Training datasets** and data sources
 - **Model risks** and vulnerabilities  
 - **Dependencies** and third-party components
 
-### 🛡️ **Supports Secure AI Adoption**
+### **Supports Secure AI Adoption**
 - Enables secure deployment across industries and geographies
 - Provides risk assessment and mitigation strategies
 - Facilitates compliance with emerging AI regulations
@@ -64,7 +64,7 @@ AIBOM provides this visibility, ensuring AI systems are **auditable**, **traceab
 
 ---
 
-## 🌐 Strategic Collaborations
+## Strategic Collaborations
 
 This initiative ensures alignment and collaboration with key OWASP projects and industry standards:
 
@@ -75,7 +75,7 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 
 ---
 
-## 🗺️ Project Roadmap
+## Project Roadmap
 
 ### 📚 **Phase 1: Foundation & Best Practices**
 **AIBOM Operationalizing Guide and Best Practices**
