@@ -79,8 +79,8 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 - **Objective:** Create comprehensive guidance for AIBOM operationalization and best practices for secure AI systems
 - **Target Audience:** Regulators, CISOs, Chief AI Officers, CTOs, Developers, AI Security Architects, LLMOps Engineers
 - **Timeline:** 
-  - 📅 Review: August - September 2025
-  - 🚀 Publication: October 2025
+  - 📅 Review: November 2025
+  - 🚀 Publication: February 2026
 
 ### 🔍 **Phase 2: Standards & Format**
 **AIBOM Format Review & Standardization**
@@ -88,8 +88,8 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 - **Objective:** Develop and review AIBOM format ensuring alignment with industry standards and regulatory requirements
 - **Focus Areas:** Security, safety, and trust aspects
 - **Timeline:** 
-  - 📅 Review: August - September 2025
-  - 🚀 Publication: October 2025
+  - 📅 Review: November 2025
+  - 🚀 Publication: February 2026
 
 ### 🛠️ **Phase 3: Tooling & Implementation**
 **AIBOM Development Tools**
@@ -97,8 +97,8 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 - **Objective:** Develop tools supporting AIBOM implementation and usage for AI system security and trustworthiness
 - **Deliverables:** Open-source tools, validation frameworks, integration guides
 - **Timeline:** 
-  - 📅 Review: August - September 2025
-  - 🚀 Publication: October 2025
+  - 📅 Review: August - December 2025
+  - 🚀 Publication: March 2026
 
 ### 💰 **Phase 4: Sustainability & Growth**
 **Funding & Strategic Partnerships**
@@ -106,8 +106,8 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 - **Objective:** Secure sustainable funding through strategic partnerships and industry collaboration
 - **Activities:** Company discussions, partnership development, fundraising initiatives
 - **Timeline:** 
-  - 🤝 Partnership Discussions: April 2025
-  - 📈 Fundraising Launch: June 2025
+  - 🤝 Partnership Discussions: November 2025
+  - 📈 Fundraising Launch: December 2025
 
 ### 📢 **Phase 5: Community & Awareness**
 **Promotion & Industry Engagement**
@@ -115,7 +115,7 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 - **Objective:** Raise awareness and promote AIBOM adoption across the AI community
 - **Activities:** Conference presentations, industry events, community outreach
 - **Timeline:** 
-  - 🎤 Conference Applications: April 2025
+  - 🎤 Conference Applications: January 2026
 
 ---
 
