@@ -1,85 +1,169 @@
 ---
 
 layout: col-sidebar
-title: OWASP AIBOM
-tags: example-tag
+title: OWASP AI Bill of Materials (AIBOM)
+tags: ai, security, bill-of-materials, transparency, governance
 level: 2
 type: documentation
-pitch: A very brief, one-line description of your project
+pitch: Bringing transparency and security to AI model supply chains through standardized documentation
 
 ---
 
-It’s becoming increasingly clear that we will need an AI Bill of Materials (AIBOM). Just as with a Software Bill of Materials (SBOM), there are potentially important questions when we use an AI model, which we’re not set up to answer meaningfully. 
-As organizations increasingly rely on AI to make decisions and automate processes, it becomes essential to understand how these models are built, including the datasets used, the data lineage, and the methodologies applied. This initiative on AIBOM (MLBOM) aims to provide this visibility, ensuring that AI systems are auditable and traceable, which helps mitigate risks such as bias, data integrity issues, and unintended consequences. Furthermore, as regulatory scrutiny of AI increases, AIBOM is a foundational tool to demonstrate compliance and foster stakeholder trust.
-The initiative will ensure ​​alignment and collaboration with OWASP CycloneDX, OWASP AI Exchange, etc. Collaboration with CycloneDX will be essential to defining the format and attributes of the AIBOM structure, and collaboration with AIExchange will be necessary for an organization to adopt the AIBOM.
+# 🤖 OWASP AI Bill of Materials (AIBOM) Project
 
-### Road Map
-1. AIBOM Operationalizing Guide and Best Practices Guide
-Objective:
-To create a comprehensive guide detailing the operationalization of AIBOM and its best practices for secure and trusted generative AI systems.
+> **Making AI Systems Transparent, Auditable, and Secure**
 
-Target Audience:
+---
 
-Regulators
-CISOs
-Chief AI Officers or CTOs and Governance CxOs
-Developers
-Gen AI Security Architects
-LLMOps Security Engineers
-Timeline:
+## 🎯 Project Announcement
 
-Review Dates: August 2025, September 2025
-Publication Date: October 2025
-2. AIBOM Format Review
-Objective:
-To conduct a detailed review of the AIBOM format ensuring alignment with industry standards and regulatory requirements, focusing on the security, safety, and trust aspects.
+We're excited to announce the **formal launch of the OWASP AI Bill of Materials (AIBOM) Project!** 
 
-Target Audience:
+Just as Software Bill of Materials (SBOMs) and Hardware Bill of Materials (HBOMs) brought clarity to software and hardware supply chains, **AIBOM aims to provide transparency into how AI models are built, trained, and deployed**.
 
-Regulators
-CISOs
-Chief AI Officers or CTOs and Governance CxOs
-Developers
-Gen AI Security Architects
-LLMOps Security Engineers
-Timeline:
+Building on OWASP's long-standing tradition of making security visible, we're now extending this mission to AI systems to address the critical need for AI model transparency across the ecosystem.
 
-Review Dates: August 2025, September 2025
-Publication Date: October 2025
-3. AIBOM Tooling
-Objective:
-To develop and review tools that support the implementation and usage of AIBOM for ensuring the security, safety, and trustworthiness of generative AI systems.
+---
 
-Target Audience:
+## 🚀 Project Mission
 
-Regulators
-CISOs
-Chief AI Officers or CTOs and Governance CxOs
-Developers
-Gen AI Security Architects
-LLMOps Security Engineers
-Timeline:
+The OWASP AIBOM Project establishes a comprehensive framework that:
 
-Review Dates: August 2025, September 2025
-Publication Date: October 2025
-4. AIBOM Funding
-Objective:
-To secure funding for the AIBOM project through strategic partnerships and discussions with companies, ensuring sufficient financial support for development and implementation.
+### 🔍 **Identifies and Documents**
+- **Model lineage** and provenance
+- **Training datasets** and data sources
+- **Model risks** and vulnerabilities  
+- **Dependencies** and third-party components
 
-Target Audience:
+### 🛡️ **Supports Secure AI Adoption**
+- Enables secure deployment across industries and geographies
+- Provides risk assessment and mitigation strategies
+- Facilitates compliance with emerging AI regulations
 
-AIBOM Core Team
-Timeline:
+### 🤝 **Bridges Communities**
+- Connects practitioners, researchers, regulators, and vendors
+- Promotes open collaboration and knowledge sharing
+- Establishes industry-wide standards and best practices
 
-Discussions with Companies: April 2025
-Fundraising Kick-off: June 2025
-5. AIBOM Promotion and Awareness
-Objective:
-To promote and raise awareness of AIBOM, ensuring readiness to showcase the project at conferences and industry events.
+---
 
-Target Audience:
+## 🎯 Why AIBOM Matters
 
-AIBOM Core Team
-Timeline:
+As organizations increasingly rely on AI to make critical decisions and automate processes, it becomes essential to understand:
 
-Ready for Conference Applications: April 2025
+- **How models are built** - datasets, methodologies, and training processes
+- **Data lineage and quality** - ensuring integrity and reducing bias
+- **Risk factors** - identifying potential vulnerabilities and limitations
+- **Compliance requirements** - meeting regulatory and governance standards
+
+AIBOM provides this visibility, ensuring AI systems are **auditable**, **traceable**, and **trustworthy**, helping organizations mitigate risks such as bias, data integrity issues, and unintended consequences.
+
+---
+
+## 🌐 Strategic Collaborations
+
+This initiative ensures alignment and collaboration with key OWASP projects and industry standards:
+
+- **🔄 OWASP CycloneDX** - Defining AIBOM format and attributes
+- **🤖 OWASP AI Exchange** - Supporting organizational AIBOM adoption
+- **🏛️ Industry Standards Bodies** - Ensuring regulatory compliance
+- **🔬 Research Communities** - Advancing AI transparency methodologies
+
+---
+
+## 🗺️ Project Roadmap
+
+### 📚 **Phase 1: Foundation & Best Practices**
+**AIBOM Operationalizing Guide and Best Practices**
+
+- **Objective:** Create comprehensive guidance for AIBOM operationalization and best practices for secure AI systems
+- **Target Audience:** Regulators, CISOs, Chief AI Officers, CTOs, Developers, AI Security Architects, LLMOps Engineers
+- **Timeline:** 
+  - 📅 Review: August - September 2025
+  - 🚀 Publication: October 2025
+
+### 🔍 **Phase 2: Standards & Format**
+**AIBOM Format Review & Standardization**
+
+- **Objective:** Develop and review AIBOM format ensuring alignment with industry standards and regulatory requirements
+- **Focus Areas:** Security, safety, and trust aspects
+- **Timeline:** 
+  - 📅 Review: August - September 2025
+  - 🚀 Publication: October 2025
+
+### 🛠️ **Phase 3: Tooling & Implementation**
+**AIBOM Development Tools**
+
+- **Objective:** Develop tools supporting AIBOM implementation and usage for AI system security and trustworthiness
+- **Deliverables:** Open-source tools, validation frameworks, integration guides
+- **Timeline:** 
+  - 📅 Review: August - September 2025
+  - 🚀 Publication: October 2025
+
+### 💰 **Phase 4: Sustainability & Growth**
+**Funding & Strategic Partnerships**
+
+- **Objective:** Secure sustainable funding through strategic partnerships and industry collaboration
+- **Activities:** Company discussions, partnership development, fundraising initiatives
+- **Timeline:** 
+  - 🤝 Partnership Discussions: April 2025
+  - 📈 Fundraising Launch: June 2025
+
+### 📢 **Phase 5: Community & Awareness**
+**Promotion & Industry Engagement**
+
+- **Objective:** Raise awareness and promote AIBOM adoption across the AI community
+- **Activities:** Conference presentations, industry events, community outreach
+- **Timeline:** 
+  - 🎤 Conference Applications: April 2025
+
+---
+
+## 🤝 Get Involved
+
+We're actively building our community and welcome contributions from:
+
+### 🎯 **Who Should Join**
+- **🔐 Security Professionals** - CISOs, Security Architects, Security Engineers
+- **🤖 AI Practitioners** - Data Scientists, ML Engineers, AI Researchers
+- **🏛️ Governance Leaders** - Chief AI Officers, CTOs, Compliance Officers
+- **📋 Regulators & Standards Bodies** - Policy makers, industry standard organizations
+- **🔧 Developers & Vendors** - Tool developers, platform providers
+
+### 📋 **Current Initiatives**
+- 🏗️ **Forming the core project team**
+- 🌟 **Welcoming community members to contribute**
+- 🤝 **Inviting sponsors and partners to accelerate this global initiative**
+
+### 💬 **How to Participate**
+
+#### For OWASP Members:
+- 💬 **Join us on OWASP Slack** to collaborate directly on this initiative
+- 📧 **Subscribe to project updates** for the latest developments
+- 🎯 **Attend working group sessions** and contribute to ongoing discussions
+
+#### For Everyone:
+- ⭐ **Star this project** to stay updated
+- 📝 **Contribute to documentation** and best practices
+- 🔧 **Help develop tools** and reference implementations
+- 📢 **Spread awareness** in your networks and communities
+
+### 📅 **Upcoming Events**
+- 🎥 **Virtual Zoom Sessions** - Goals, roadmap, and collaboration opportunities
+- 🗓️ **Regular Working Group Meetings** - Technical discussions and progress updates
+- 🎤 **Conference Presentations** - Industry events and speaking opportunities
+
+---
+
+## 📬 Contact & Resources
+
+- 🌐 **Project Homepage:** [OWASP AIBOM](https://owasp.org/www-project-aibom/)
+- 💬 **OWASP Slack:** Join the #project-aibom channel
+- 📧 **Mailing List:** Subscribe for project updates
+- 📋 **GitHub Repository:** Contribute to our open-source efforts
+
+---
+
+*Let's build the future of AI transparency together! 🚀*
+
+**Tags:** `#OWASP` `#AI` `#AISecurity` `#AIBOM` `#AIGovernance` `#AISupplyChain` `#CyberSecurity` `#BillOfMaterials`
