@@ -44,14 +44,14 @@ The OWASP AIBOM Project establishes a comprehensive framework that:
 - Provides risk assessment and mitigation strategies
 - Facilitates compliance with emerging AI regulations
 
-### 🤝 **Bridges Communities**
+### **Bridges Communities**
 - Connects practitioners, researchers, regulators, and vendors
 - Promotes open collaboration and knowledge sharing
 - Establishes industry-wide standards and best practices
 
 ---
 
-## 🎯 Why AIBOM Matters
+## Why AIBOM Matters
 
 As organizations increasingly rely on AI to make critical decisions and automate processes, it becomes essential to understand:
 
@@ -77,7 +77,7 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 
 ## Project Roadmap
 
-### 📚 **Phase 1: Foundation & Best Practices**
+### **Phase 1: Foundation & Best Practices**
 **AIBOM Operationalizing Guide and Best Practices**
 
 - **Objective:** Create comprehensive guidance for AIBOM operationalization and best practices for secure AI systems
@@ -86,7 +86,7 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
   - 📅 Review: November 2025
   - 🚀 Publication: February 2026
 
-### 🔍 **Phase 2: Standards & Format**
+### **Phase 2: Standards & Format**
 **AIBOM Format Review & Standardization**
 
 - **Objective:** Develop and review AIBOM format ensuring alignment with industry standards and regulatory requirements
@@ -95,7 +95,7 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
   - 📅 Review: November 2025
   - 🚀 Publication: February 2026
 
-### 🛠️ **Phase 3: Tooling & Implementation**
+### **Phase 3: Tooling & Implementation**
 **AIBOM Development Tools**
 
 - **Objective:** Develop tools supporting AIBOM implementation and usage for AI system security and trustworthiness
@@ -104,7 +104,7 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
   - 📅 Review: August - December 2025
   - 🚀 Publication: March 2026
 
-### 💰 **Phase 4: Sustainability & Growth**
+### **Phase 4: Sustainability & Growth**
 **Funding & Strategic Partnerships**
 
 - **Objective:** Secure sustainable funding through strategic partnerships and industry collaboration
@@ -113,7 +113,7 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
   - 🤝 Partnership Discussions: November 2025
   - 📈 Fundraising Launch: December 2025
 
-### 📢 **Phase 5: Community & Awareness**
+### **Phase 5: Community & Awareness**
 **Promotion & Industry Engagement**
 
 - **Objective:** Raise awareness and promote AIBOM adoption across the AI community
@@ -123,23 +123,23 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
 We're actively building our community and welcome contributions from:
 
-### 🎯 **Who Should Join**
+### **Who Should Join**
 - **🔐 Security Professionals** - CISOs, Security Architects, Security Engineers
 - **🤖 AI Practitioners** - Data Scientists, ML Engineers, AI Researchers
 - **🏛️ Governance Leaders** - Chief AI Officers, CTOs, Compliance Officers
 - **📋 Regulators & Standards Bodies** - Policy makers, industry standard organizations
 - **🔧 Developers & Vendors** - Tool developers, platform providers
 
-### 📋 **Current Initiatives**
+### **Current Initiatives**
 - 🏗️ **Forming the core project team**
 - 🌟 **Welcoming community members to contribute**
 - 🤝 **Inviting sponsors and partners to accelerate this global initiative**
 
-### 💬 **How to Participate**
+### **How to Participate**
 
 #### For OWASP Members:
 - 💬 **Join us on OWASP Slack** to collaborate directly on this initiative
@@ -152,19 +152,19 @@ We're actively building our community and welcome contributions from:
 - 🔧 **Help develop tools** and reference implementations
 - 📢 **Spread awareness** in your networks and communities
 
-### 📅 **Upcoming Events**
+### **Upcoming Events**
 - 🎥 **Virtual Zoom Sessions** - Goals, roadmap, and collaboration opportunities
 - 🗓️ **Regular Working Group Meetings** - Technical discussions and progress updates
 - 🎤 **Conference Presentations** - Industry events and speaking opportunities
 
 ---
 
-## 📬 Contact & Resources
+## Contact & Resources
 
-- 🌐 **Project Homepage:** [OWASP AIBOM](https://owasp.org/www-project-aibom/)
-- 💬 **OWASP Slack:** Join the #project-aibom channel
-- 📧 **Mailing List:** Subscribe for project updates
-- 📋 **GitHub Repository:** Contribute to our open-source efforts
+- **Project Homepage:** [OWASP AIBOM](https://owasp.org/www-project-aibom/)
+- **OWASP Slack:** Join the #project-aibom channel
+- **Mailing List:** Subscribe for project updates
+- **GitHub Repository:** Contribute to our open-source efforts
 
 ---
 
