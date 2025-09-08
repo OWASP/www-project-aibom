@@ -162,7 +162,7 @@ We're actively building our community and welcome contributions from:
 ## Contact & Resources
 
 - **Project Homepage:** [OWASP AIBOM](https://owasp.org/www-project-aibom/)
-- **OWASP Slack:** Join the #project-aibom channel
+- **OWASP Slack:** Join the #project-aibom-community channel
 - **Mailing List:** Subscribe for project updates
 - **GitHub Repository:** Contribute to our open-source efforts
 
