@@ -10,7 +10,7 @@ pitch: Bringing transparency and security to AI model supply chains through stan
 ---
 
 <div align="center">
-  <img src="assets/images/owasp-aibom-logo.jpg" alt="OWASP AI BOM Logo" width="400" height="150">
+  <img src="assets/images/owasp-aibom-logo.jpg" alt="OWASP AI BOM Logo" width="300" height="200">
 </div>
 
 # OWASP AI Bill of Materials (AIBOM) Project
