@@ -163,7 +163,7 @@ We're actively building our community and welcome contributions from:
 
 - **Project Homepage:** [OWASP AIBOM](https://owasp.org/www-project-aibom/)
 - **OWASP Slack:** Join the #project-aibom-community channel [You need to be signed into OWASP Workspace to join the channel]
-   Please join our Slack:  Slack Invite Link - https://owasp.slack.com/join/shared_invite/zt-3f5o62ulw-JBfsuvEjAQECsdk_DRuF8w#/shared-invite/email
+OWASP Slack Workspace:  [Slack Invite Link](https://owasp.slack.com/join/shared_invite/zt-3f5o62ulw-JBfsuvEjAQECsdk_DRuF8w#/shared-invite/email)
 - **Mailing List:** Subscribe for project updates
 - **GitHub Repository:** Contribute to our open-source efforts
 
