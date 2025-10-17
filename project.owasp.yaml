@@ -1,0 +1,27 @@
+audience:
+  - breaker
+  - builder
+community:
+  - name: project-aibom-community
+    platform: slack
+    url: https://owasp.slack.com/archives/C07UZUAJTL4
+    description: OWASP AI BOM - AI Bill of Material
+leaders:
+  - name: Aruneesh Salhotra
+    email: aruneesh.salhotra@owasp.org
+    github: aruneeshsalhotra
+level: 2
+name: OWASP AI Bill of Materials (AIBOM)
+pitch: Bringing transparency and security to AI model supply chains through standardized documentation
+repositories:
+  - name: www-project-aibom
+    url: https://github.com/OWASP/www-project-aibom
+    description: OWASP Foundation web repository
+tags:
+  - ai
+  - security
+  - bill-of-materials
+  - transparency
+  - governance
+type: documentation
+website: https://owasp.org/www-project-aibom
