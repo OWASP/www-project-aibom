@@ -164,8 +164,17 @@ We're actively building our community and welcome contributions from:
 - **Project Homepage:** [OWASP AIBOM](https://owasp.org/www-project-aibom/)
 - **OWASP Slack:** Join the #project-aibom-community channel [You need to be signed into OWASP Workspace to join the channel]
 OWASP Slack Workspace:  [Slack Invite Link](https://owasp.slack.com/join/shared_invite/zt-3f5o62ulw-JBfsuvEjAQECsdk_DRuF8w#/shared-invite/email)
-- **Mailing List:** Subscribe for project updates
+- **Project Membership Form:** Join the OWASP AIBOM community — <a href="https://forms.gle/RLqU7mP5zpFaMvkR9" target="_blank">Fill Out Form</a>
 - **GitHub Repository:** Contribute to our open-source efforts
+
+---
+
+## Sponsorship
+
+- **Sponsorship Deck:** Learn how to support and partner with the OWASP AIBOM project — [View Deck](https://drive.google.com/file/d/1W_7dONqH2H4cxMywxQEv3wTjCAvW_Ldk/view?usp=sharing)  
+- **Contact for Sponsorship:**  
+  **Aruneesh Salhotra** — OWASP AIBOM Project Lead  
+  📧 [aruneesh.salhotra@owasp.org](mailto:aruneesh.salhotra@owasp.org)
 
 ---
 
