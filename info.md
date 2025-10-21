@@ -4,6 +4,8 @@
 * [Version 0.0.0](#)
 * [Builder](#)
 * [Breaker](#)
+* [Join and Contribute](https://github.com/OWASP/www-project-aibom/blob/main/index.md#sponsorship)
+* [Sponsor Us](https://github.com/OWASP/www-project-aibom/blob/main/index.md#sponsorship)
 
 ### Social Links
 * [LinkedIn](https://www.linkedin.com/company/owasp-ai-bom/)
