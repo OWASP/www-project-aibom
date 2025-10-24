@@ -8,6 +8,34 @@ type: documentation
 pitch: Bringing transparency and security to AI model supply chains through standardized documentation
 
 ---
+<style>
+  .navbar {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1000;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+  }
+  .tab-link {
+    margin: 0 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #0366d6;
+  }
+  .tab-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="navbar">
+  <a class="tab-link" href="#main">Main</a>
+  <a class="tab-link" href="#join-and-contribute">Join & Contribute</a>
+  <a class="tab-link" href="#sponsorship">Sponsorship</a>
+</div>
+
+---
 
 <div align="center">
   <img src="assets/images/owasp-aibom-logo.jpg" alt="OWASP AI BOM Logo" width="300" height="300">
