@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP AI Bill of Materials (AIBOM)
+title: OWASP-AIBOM
 tags: ai, security, bill-of-materials, transparency, governance
 level: 2
 type: documentation
