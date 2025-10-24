@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: OWASP-AIBOM
+title: Sponsorship
 tags: ai, security, bill-of-materials, transparency, governance
 tab: true
 order: 3
