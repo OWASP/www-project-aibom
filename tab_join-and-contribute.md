@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: Join-and-Contribute
+title: Join and Contribute
 tags: ai, security, bill-of-materials, transparency, governance
 tab: true
 order: 2
