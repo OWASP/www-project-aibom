@@ -3,7 +3,7 @@ layout: col-sidebar
 title: Sponsorship
 tags: ai, security, bill-of-materials, transparency, governance
 tab: true
-order: 3
+order: 4
 ---
 
 ## Sponsorship
