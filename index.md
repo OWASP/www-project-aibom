@@ -68,10 +68,10 @@ AIBOM provides this visibility, ensuring AI systems are **auditable**, **traceab
 
 This initiative ensures alignment and collaboration with key OWASP projects and industry standards:
 
-- **🔄 OWASP CycloneDX** - Defining AIBOM format and attributes
-- **🤖 OWASP AI Exchange** - Supporting organizational AIBOM adoption
-- **🏛️ Industry Standards Bodies** - Ensuring regulatory compliance
-- **🔬 Research Communities** - Advancing AI transparency methodologies
+- **OWASP CycloneDX** - Defining AIBOM format and attributes
+- **OWASP AI Exchange** - Supporting organizational AIBOM adoption
+- **Industry Standards Bodies** - Ensuring regulatory compliance
+- **Research Communities** - Advancing AI transparency methodologies
 
 ---
 
@@ -80,57 +80,37 @@ This initiative ensures alignment and collaboration with key OWASP projects and 
 We're actively building our community and welcome contributions from:
 
 ### **Who Should Join**
-- **🔐 Security Professionals** - CISOs, Security Architects, Security Engineers
-- **🤖 AI Practitioners** - Data Scientists, ML Engineers, AI Researchers
-- **🏛️ Governance Leaders** - Chief AI Officers, CTOs, Compliance Officers
-- **📋 Regulators & Standards Bodies** - Policy makers, industry standard organizations
-- **🔧 Developers & Vendors** - Tool developers, platform providers
+- **Security Professionals** - CISOs, Security Architects, Security Engineers
+- **AI Practitioners** - Data Scientists, ML Engineers, AI Researchers
+- **Governance Leaders** - Chief AI Officers, CTOs, Compliance Officers
+- **Regulators & Standards Bodies** - Policy makers, industry standard organizations
+- **Developers & Vendors** - Tool developers, platform providers
 
 ### **Current Initiatives**
-- 🏗️ **Forming the core project team**
-- 🌟 **Welcoming community members to contribute**
-- 🤝 **Inviting sponsors and partners to accelerate this global initiative**
+- **Forming the core project team**
+- **Welcoming community members to contribute**
+- **Inviting sponsors and partners to accelerate this global initiative**
 
 ### **How to Participate**
 
 #### For OWASP Members:
-- 💬 **Join us on OWASP Slack** to collaborate directly on this initiative
-- 📧 **Subscribe to project updates** for the latest developments
-- 🎯 **Attend working group sessions** and contribute to ongoing discussions
+- **Join us on OWASP Slack** to collaborate directly on this initiative
+- **Subscribe to project updates** for the latest developments
+- **Attend working group sessions** and contribute to ongoing discussions
 
 #### For Everyone:
-- ⭐ **Star this project** to stay updated
-- 📝 **Contribute to documentation** and best practices
-- 🔧 **Help develop tools** and reference implementations
-- 📢 **Spread awareness** in your networks and communities
+- **Star this project** to stay updated
+- **Contribute to documentation** and best practices
+- **Help develop tools** and reference implementations
+- **Spread awareness** in your networks and communities
 
 ### **Upcoming Events**
-- 🎥 **Virtual Zoom Sessions** - Goals, roadmap, and collaboration opportunities
-- 🗓️ **Regular Working Group Meetings** - Technical discussions and progress updates
-- 🎤 **Conference Presentations** - Industry events and speaking opportunities
+- **Virtual Zoom Sessions** - Goals, roadmap, and collaboration opportunities
+- **Regular Working Group Meetings** - Technical discussions and progress updates
+- **Conference Presentations** - Industry events and speaking opportunities
 
 ---
 
-## Join and Contribute
-
-- **Project Homepage:** [OWASP AIBOM](https://owasp.org/www-project-aibom/)
-- **OWASP Slack:** Join the #project-aibom-community channel <br>
-OWASP Slack Workspace — [Slack Invite Link](https://owasp.slack.com/join/shared_invite/zt-3f5o62ulw-JBfsuvEjAQECsdk_DRuF8w#/shared-invite/email)<br>
-Note: You need to be an [OWASP Member](https://owasp.org/members/) and signed into OWASP Slack Workspace to join the channel
-- **Project Membership Form:** Join the OWASP AIBOM community — <a href="https://forms.gle/RLqU7mP5zpFaMvkR9" target="_blank">Fill Out Form</a>
-- **GitHub Repository:** Contribute to our [open-source repository](https://github.com/OWASP/www-project-aibom/tree/main)
-
----
-
-## Sponsorship
-
-- **Sponsorship Deck:** Learn how to support and partner with the OWASP AIBOM project — [View Deck](https://drive.google.com/file/d/1W_7dONqH2H4cxMywxQEv3wTjCAvW_Ldk/view?usp=sharing)  
-- **Contact for Sponsorship:**  
-  **Aruneesh Salhotra** — OWASP AIBOM Project Lead  
-  📧 [aruneesh.salhotra@owasp.org](mailto:aruneesh.salhotra@owasp.org)
-
----
-
-*Let's build the future of AI transparency together! 🚀*
+*Let's build the future of AI transparency together!*
 
 **Tags:** `#OWASP` `#AI` `#AISecurity` `#AIBOM` `#AIGovernance` `#AISupplyChain` `#CyberSecurity` `#BillOfMaterials`
