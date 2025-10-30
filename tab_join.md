@@ -3,7 +3,7 @@ layout: col-sidebar
 title: Join
 tags: ai, security, bill-of-materials, transparency, governance
 tab: true
-order: 3
+order: 5
 ---
 
 ## Join and Contribute

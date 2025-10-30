@@ -3,7 +3,7 @@ layout: col-sidebar
 title: Roadmap
 tags: ai, security, bill-of-materials, transparency, governance
 tab: true
-order: 2
+order: 3
 ---
 
 ## Project Roadmap

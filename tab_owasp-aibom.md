@@ -1,4 +1,6 @@
 - [Main](/www-project-aibom/)
-- [Join & Contribute](/www-project-aibom/tab_join-and-contribute)
-- [Sponsorship](/www-project-aibom/tab_sponsorship)
+- [Guidance](/www-project-aibom/tab_guidance)
 - [Roadmap](/www-project-aibom/tab_roadmap)
+- [News](/www-project-aibom/tab_news)
+- [Join](/www-project-aibom/tab_join)
+- [Sponsorship](/www-project-aibom/tab_sponsorship)
