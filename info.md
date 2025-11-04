@@ -1,11 +1,10 @@
 ### AIBOM Information
 * [Incubator Project](#)
 * [Type of Project](#)
-* [Version 0.0.0](#)
+* [Version 0.8](#)
 * [Builder](#)
-* [Breaker](#)
-* [Join and Contribute](https://github.com/OWASP/www-project-aibom/blob/main/index.md#sponsorship)
-* [Sponsor Us](https://github.com/OWASP/www-project-aibom/blob/main/index.md#sponsorship)
+* [Join and Contribute](https://owasp.org/www-project-aibom/#)
+* [Sponsor Us](hhttps://owasp.org/www-project-aibom/#)
 
 ### Social Links
 * [LinkedIn](https://www.linkedin.com/company/owasp-ai-bom/)
