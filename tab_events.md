@@ -1,9 +1,9 @@
 ---
 layout: col-sidebar
-title: Meetings & Events
+title: Events
 tags: ai, security, bill-of-materials, transparency, governance
 tab: true
-order: 5
+order: 7
 ---
 
 # 📅 Meetings & Events
