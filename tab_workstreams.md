@@ -34,7 +34,7 @@ Establishing the baseline requirements and dependencies needed for successful AI
 - Environmental and platform dependencies
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-prerequisites](https://owasp.slack.com)
+**Join:** [#project-aibom-prerequisites](https://owasp.slack.com)
 
 ---
 
@@ -50,7 +50,7 @@ Creating comprehensive operational guidelines and best practices for AIBOM adopt
 - Common pitfalls and solutions
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-best-practices](https://owasp.slack.com)
+**Join:** [#project-aibom-best-practices](https://owasp.slack.com)
 
 ---
 
@@ -66,7 +66,7 @@ Developing and maintaining standard formats for AI Bill of Materials documentati
 - Interoperability standards
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-formats](https://owasp.slack.com)
+**Join:** [#project-aibom-formats](https://owasp.slack.com)
 
 ---
 
@@ -82,7 +82,7 @@ Creating and maintaining tools to generate, validate, and analyze AIBOMs.
 - Integration with existing DevOps/MLOps tools
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-tools](https://owasp.slack.com)
+**Join:** [#project-aibom-tools](https://owasp.slack.com)
 
 ---
 
@@ -98,7 +98,7 @@ Developing partnerships and securing resources to support project growth and sus
 - Value proposition articulation
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-sponsorship](https://owasp.slack.com)
+**Join:** [#project-aibom-sponsorship](https://owasp.slack.com)
 
 ---
 
@@ -114,7 +114,7 @@ Establishing quality standards and integrity measures for AIBOM data and process
 - Audit and compliance procedures
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-integrity](https://owasp.slack.com)
+**Join:** [#project-aibom-integrity](https://owasp.slack.com)
 
 ---
 
@@ -130,7 +130,7 @@ Engaging with regulatory bodies and developing policy recommendations for AIBOM 
 - Industry standards alignment
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-policy](https://owasp.slack.com)
+**Join:** [#project-aibom-policy](https://owasp.slack.com)
 
 ---
 
@@ -146,7 +146,7 @@ Producing educational materials, documentation, and resources for the AIBOM comm
 - Blog posts and articles
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-content](https://owasp.slack.com)
+**Join:** [#project-aibom-content](https://owasp.slack.com)
 
 ---
 
@@ -162,7 +162,7 @@ Establishing and nurturing strategic partnerships with other organizations, proj
 - Standards body engagement
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-alliances](https://owasp.slack.com)
+**Join:** [#project-aibom-alliances](https://owasp.slack.com)
 
 ---
 
@@ -178,7 +178,7 @@ Promoting AIBOM adoption through marketing, outreach, and community engagement a
 - Community growth initiatives
 
 **Current Status:** 🟢 Active  
-**Join:** [#workstream-engagement](https://owasp.slack.com)
+**Join:** [#project-aibom-engagement](https://owasp.slack.com)
 
 ---
 
