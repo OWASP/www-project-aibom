@@ -5,5 +5,5 @@
 <script>
   setTimeout(() => {
     window.location.href = "https://owaspaibom.org/";
-  }, 2000);
+  }, 2);
 </script>
