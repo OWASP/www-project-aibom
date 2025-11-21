@@ -2,3 +2,18 @@
 /Gemfile.lock
 /favicon.ico
 _site/
+
+# Windows
+[Dd]esktop.ini
+Thumbs.db*
+*.lnk
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Linux
+.Trash-*
+*~
+.fuse_hidden*
+.nfs*
